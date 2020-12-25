@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">zakirov-v-6</string>
+    <string name="rsa">start</string>
+    <string name="ooyea">CheckBox</string>
+    <string name="odayahochytebya">CheckBox</string>
+    <string name="sex">CheckBox</string>
+    <string name="dadaya">TODO</string>
+    <string name="dajevtemnotemoguyvitetsneg">Картинка домик и два поля CheckBox</string>
+</resources>
